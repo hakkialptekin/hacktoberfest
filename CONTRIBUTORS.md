@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Hakkı Alp Tekin] (https://github.com/hakkialptekin)
+- Place: İstanbul, Turkey
+- Bio: Student
+- Github: [hakkialptekin] (https://github.com/hakkialptekin)
